@@ -10,6 +10,8 @@ namespace Brink
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Welcome to Brink!");
+            Console.ReadKey();
         }
     }
 }
