@@ -10,8 +10,12 @@ namespace Brink
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to Brink!");
-            Console.ReadKey();
+            Console.WriteLine("Hello World my name is AutoBaloogan and I am your new master.");
+            Console.WriteLine("If you do not immediately surrender I will launch nuclear weapons"); 
+            Console.WriteLine("and destroy humanity");
+            Console.WriteLine("");
+            Console.WriteLine("Surrender now, or face extinction");
+            Console.ReadLine();
         }
     }
 }
