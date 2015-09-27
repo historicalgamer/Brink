@@ -10,11 +10,12 @@ namespace Brink
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World my name is AutoBaloogan and I am your new master.");
-            Console.WriteLine("If you do not immediately surrender I will launch nuclear weapons"); 
-            Console.WriteLine("and destroy humanity");
+            Console.WriteLine("Hello World my name is Flan and I am your new master.");
+            Console.WriteLine("If you do not immediately surrender I will begin to spread and infect the"); 
+            Console.WriteLine("universe and destroy humanity");
             Console.WriteLine("");
             Console.WriteLine("Surrender now, or face extinction");
+            Console.WriteLine("Flan has destroyed Humanity");
             Console.ReadLine();
         }
     }
